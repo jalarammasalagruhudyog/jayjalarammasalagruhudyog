@@ -47,7 +47,7 @@ a{
 }
 
 ul{
-	list-style: none;
+	list-style-type: circle ;
 }
 
 h1 { font-size: 56px;}
